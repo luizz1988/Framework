@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Olos.OPS.Logger</id>
+    <version>2.1.0</version>
+    <title>Olos Framework Logger</title>
+    <authors>Luiz Henrique (OPS)</authors>
+    <owners>Luiz Henrique (OPS)</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Project for logger</description>
+    <releaseNotes>Ajustes Version.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>logger</tags>
+	 <dependencies>
+      <dependency id="log4net" version="[2.0.8]" />
+      <dependency id="Olos.OPS.Core" version="1.1.0" />
+    </dependencies>
+  </metadata>
+   <files>
+    <file src="bin\Release\log4net.config" target="content\log4net.config" />
+    <file src="bin\Release\Install.ps1" target="tools" />
+  </files>
+</package>

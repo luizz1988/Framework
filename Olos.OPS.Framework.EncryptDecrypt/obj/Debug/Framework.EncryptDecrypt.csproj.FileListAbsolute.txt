@@ -1,0 +1,15 @@
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.EncryptDecrypt\bin\Debug\Framework.EncryptDecrypt.dll
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.EncryptDecrypt\bin\Debug\Framework.EncryptDecrypt.pdb
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.EncryptDecrypt\bin\Debug\Framework.Core.dll
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.EncryptDecrypt\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.EncryptDecrypt\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.EncryptDecrypt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.EncryptDecrypt\bin\Debug\Framework.Core.pdb
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.EncryptDecrypt\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.EncryptDecrypt\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.EncryptDecrypt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.EncryptDecrypt\obj\Debug\Framework.EncryptDecrypt.csprojAssemblyReference.cache
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.EncryptDecrypt\obj\Debug\Framework.EncryptDecrypt.csproj.CoreCompileInputs.cache
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.EncryptDecrypt\obj\Debug\Framework.EncryptDecrypt.csproj.CopyComplete
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.EncryptDecrypt\obj\Debug\Framework.EncryptDecrypt.dll
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.EncryptDecrypt\obj\Debug\Framework.EncryptDecrypt.pdb

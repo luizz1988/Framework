@@ -1,0 +1,15 @@
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.Data\bin\Debug\Framework.Data.dll
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.Data\bin\Debug\Framework.Data.pdb
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.Data\bin\Debug\Framework.Core.dll
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.Data\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.Data\bin\Debug\Framework.Core.pdb
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.Data\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.Data\obj\Debug\Framework.Data.csprojAssemblyReference.cache
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.Data\obj\Debug\Framework.Data.csproj.CoreCompileInputs.cache
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.Data\obj\Debug\Framework.Data.csproj.CopyComplete
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.Data\obj\Debug\Framework.Data.dll
+C:\Projetos Particular\Framework OPS\Olos.OPS.Framework\Olos.OPS.Framework.Data\obj\Debug\Framework.Data.pdb
